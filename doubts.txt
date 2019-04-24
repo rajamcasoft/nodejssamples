@@ -1,0 +1,6 @@
+what is TypedArrays?
+
+
+TODO
+-----------
+Need to develop one buffer related concept streamig a video etc.,
